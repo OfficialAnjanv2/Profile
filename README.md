@@ -24,9 +24,6 @@
 
 <h1 align="center"><b>Reach Me Out </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="55"></h1>
 
-  <a href="mailto:anjan@124@gmail.com?subject=[%20GITHUB%20]%20">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
   <a href="https://www.instagram.com/mr.anjan1">
     <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
   </a><br>
