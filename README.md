@@ -12,9 +12,6 @@
 
 - 🕵️ I’m looking to collaborate with other **WA BOT DEVELOPERS**
 
-<p align="center">
-   <a href="https://github.com/OfficialAnjanv2"> <img  alt="Anjan's GitHub Stats" src="" />  </a>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=godzenitsu&label=Profile%20Views&color=ffa500&style=flat" alt="EYPZ" /> </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
